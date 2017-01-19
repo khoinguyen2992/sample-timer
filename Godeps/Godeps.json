@@ -1,0 +1,110 @@
+{
+	"ImportPath": "sample-timer",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v77",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-gonic/gin/binding",
+			"Comment": "v1.1.4",
+			"Rev": "e2212d40c62a98b388a5eb48ecbdcf88534688ba"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/render",
+			"Comment": "v1.1.4",
+			"Rev": "e2212d40c62a98b388a5eb48ecbdcf88534688ba"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "8ee79997227bf9b34611aee7946ae64735e6fd93"
+		},
+		{
+			"ImportPath": "github.com/jasonlvhit/gocron",
+			"Rev": "42a5804d37aa0b9239b265e894a16b8edbf52d54"
+		},
+		{
+			"ImportPath": "github.com/manucorporat/sse",
+			"Rev": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "30a891c33c7cde7b02a981314b4228ec99380cca"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "45e771701b814666a7eb299e6c7a57d0b1799e91"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
+		},
+		{
+			"ImportPath": "gopkg.in/gin-gonic/gin.v1",
+			"Comment": "v1.1.4",
+			"Rev": "e2212d40c62a98b388a5eb48ecbdcf88534688ba"
+		},
+		{
+			"ImportPath": "gopkg.in/go-playground/validator.v8",
+			"Comment": "v8.18.1",
+			"Rev": "5f57d2222ad794d0dffb07e664ea05e2ee07d60c"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/json",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/sasl",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/scram",
+			"Comment": "r2016.08.01-5-g3f83fa5",
+			"Rev": "3f83fa5005286a7fe593b055f0d7771a7dce4655"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/consistenthash",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/hashtag",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/pool",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/proto",
+			"Comment": "v5.2.2",
+			"Rev": "8829ddcd8bdb333e477cc845946c4b9b2ef66280"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "a5b47d31c556af34a302ce5d659e6fea44d90de0"
+		}
+	]
+}
