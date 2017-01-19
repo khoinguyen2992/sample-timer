@@ -19,16 +19,16 @@ Using cronjob and mongodb.
 
 ### Pros
 
-1. Keep tasks when server down.
+- Keep tasks when server down.
 
 ### Cons
 
-1. Kseep running every 1s
-1. Duplication processing if there are two or more instances
+- Kseep running every 1s
+- Duplication processing if there are two or more instances
 
 ### Improvements
 
-1. Double check tasks in processing or not
+- Double check tasks in processing or not
 
 ## Approach #2
 
@@ -36,13 +36,13 @@ Using redis pubsub.
 
 ### Pros
 
-1. Run in demand
-1. No duplication processing
+- Run in demand
+- No duplication processing
 
 ### Cons
 
-1. Tasks eliminated when server down
+- Tasks eliminated when server down
 
 ### Improvements
 
-1. Persist tasks to database
+- Persist tasks to database
